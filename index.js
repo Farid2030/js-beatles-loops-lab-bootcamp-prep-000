@@ -34,7 +34,7 @@ var myArray = []
 do{
 
   myArray.push("I love the Beatles!")
-  num--;
+  num++;
 }while(num>=0 && num<8)
 
   return myArray
